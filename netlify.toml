@@ -5,5 +5,5 @@
   # This is the directory is publishing to netlify's CDN
   publish = "build"
 
-[template.environment]
-  FAUNADB_SECRET = "Your FaunaDB Server Secret"
+[template.envionment]
+  FAUNADB_SECRET = "fnADI41vYBACBb_f7bTwhvQkyClGNcyzl8WHHfhN"
