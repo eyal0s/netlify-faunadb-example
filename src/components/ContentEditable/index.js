@@ -10,6 +10,7 @@ export default class ContentEditable extends React.Component {
     }
     this.hasFocused = false
   }
+  
   handleClick = (e) => {
     e.preventDefault()
     const event = e || window.event
@@ -99,3 +100,4 @@ function selectRange(range) {
     }
   }
 }
+``
